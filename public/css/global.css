@@ -1,0 +1,13 @@
+.carousel-inner > .item > img,
+  .carousel-inner > .item > a > img {
+      width: 70%;
+      margin: auto;
+}
+.left {
+    background-color: darkblue;
+    opacity: .5;
+}
+.right {
+    background-color: darkblue;
+    opacity: .5;
+}
